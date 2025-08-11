@@ -22,10 +22,8 @@ Sou um entusiasta do desenvolvimento front-end e estou atualmente aprendendo div
 
 <!-- Imagem ou banner animado (exemplo genérico, pode trocar) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVjNDU5MTI5ZmI3MTFkNmU0ZDg1MGI5NzE1ZjE0YmZhNGM5YmEyZiZjdD1n/SV4u7z2GQur3p7TNOo/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400"/>
 </p>
-
----
 
 <!-- Seção de skills com ícones -->
 ## Tecnologias que estou aprendendo:
