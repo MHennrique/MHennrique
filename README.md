@@ -41,9 +41,10 @@ Sou um entusiasta do desenvolvimento front-end e estou atualmente aprendendo div
 <!-- Barra de progresso -->
 ## Meu progresso de aprendizado:
 
-![JavaScript](https://progress-bar.dev/80/?title=JavaScript)
-![React](https://progress-bar.dev/65/?title=React)
-![CSS](https://progress-bar.dev/90/?title=CSS)
+- JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-brightgreen)
+- React: ![React](https://img.shields.io/badge/React-65%25-yellowgreen)
+- CSS: ![CSS](https://img.shields.io/badge/CSS-90%25-brightgreen)
+
 
 ---
 
