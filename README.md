@@ -53,6 +53,8 @@ Sou um entusiasta do desenvolvimento front-end e estou atualmente aprendendo div
 
 1. [Jogo-Secreto](https://github.com/MHennrique/Jogo-Secreto) – Jogo desenvolvido para aprender lógica.
 2. [AluraPlus](https://github.com/MHennrique/AluraPlus) – Plataforma de cursos online.
+3. [ChatBot](https://github.com/MHennrique/meuChatBot) - Estudo sobre como começar um chatBot.
+4. [Gestor de Tarefas](https://github.com/MHennrique/App_Gestao_tarefas) - BackEnd do Gestor de Tarefas.
 
 ---
 
